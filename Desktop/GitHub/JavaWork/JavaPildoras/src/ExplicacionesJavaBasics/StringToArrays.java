@@ -6,7 +6,7 @@ public class StringToArrays {
 		// TODO Auto-generated method stub
 		String alumno1="Hola Pepe";
 		
-		String alumno1_resumen=alumno1.substring(1, 3);
+		String alumno1_resumen=alumno1.substring(1, 2);
 		
 		System.out.println(alumno1_resumen);
 		

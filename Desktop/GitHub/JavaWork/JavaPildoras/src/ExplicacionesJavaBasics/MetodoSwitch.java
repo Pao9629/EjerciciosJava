@@ -10,7 +10,7 @@ public class MetodoSwitch {
 		// TODO Auto-generated method stub
 		Scanner entrada=new Scanner(System.in);
 		
-		System.out.println("Elige una opción: \n1: Cuadrado  \n2: Rectangulo  \n3: Triangulo  \n4: Circulo");
+		System.out.println("Elige una opción: \n1: Cuadrado  \n2: Rectangulo  \n3: Triángulo  \n4: Circulo");
 	
 		int figura=entrada.nextInt();
 		

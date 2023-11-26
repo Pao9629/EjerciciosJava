@@ -25,7 +25,7 @@ public class EstructurasCondicionalesyBucles {
 		
 		else {
 			
-			System.out.println("Eres menor de edad, sorry");
+			System.out.println("Eres menor de edad, sorry jeje");
 			
 		} //cierre del else
 		

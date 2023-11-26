@@ -13,7 +13,7 @@ public class EntradaEjemplo2 {
 		
 		int edad_usuario=Integer.parseInt(edad);
 		
-		System.out.println("Hola " + nombre_usuario + ". En 5 años tendrás "+ (edad_usuario+5) + " años");
+		System.out.println("Hola " + nombre_usuario + ". En 5 años tendrás "+ (edad_usuario+5) + "  años");
 
 	}
 
