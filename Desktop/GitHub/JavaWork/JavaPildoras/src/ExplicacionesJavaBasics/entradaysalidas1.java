@@ -1,4 +1,4 @@
-package EjerciciosJava;
+package ExplicacionesJavaBasics;
 
 
 import java.util.*;

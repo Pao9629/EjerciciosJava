@@ -1,4 +1,4 @@
-package EjerciciosJava;
+package ExplicacionesJavaBasics;
 
 import javax.swing.JOptionPane;
 import java.util.Scanner;
