@@ -37,7 +37,7 @@ public class EjercicioCondicionalfElse {
 			
 			else {
 				
-				System.out.println("Cuidate");
+				System.out.println("Cuidate mucho");
 			
 			}
 	}

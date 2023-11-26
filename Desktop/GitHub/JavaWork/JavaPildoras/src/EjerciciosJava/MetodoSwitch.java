@@ -57,7 +57,7 @@ public class MetodoSwitch {
 			
 			default:
 				
-				System.out.println("La opción no es correcta");
+				System.out.println("La opción no es ni será correcta");
 		}
 	}
 
