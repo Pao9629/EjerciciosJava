@@ -12,7 +12,7 @@ public class entradaysalidas1 {
 		
 		String nombre_usuario= entrada.nextLine();
 		
-		System.out.println("Introduce edad, por favor");
+		System.out.println("Introduce edad por favor");
 		
 		int edad=entrada.nextInt();
 		

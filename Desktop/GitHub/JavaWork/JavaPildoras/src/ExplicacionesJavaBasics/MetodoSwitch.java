@@ -28,7 +28,7 @@ public class MetodoSwitch {
 			
 			int base=Integer.parseInt(JOptionPane.showInputDialog("Introduce la base"));
 		
-			int altura=Integer.parseInt(JOptionPane.showInputDialog("Introduce la altura"));
+			int altura=Integer.parseInt(JOptionPane.showInputDialog("Introduce la altura, plis"));
 			
 			System.out.println("El área del rectangulo es " + base*altura);
 			

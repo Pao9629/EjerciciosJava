@@ -9,7 +9,7 @@ public class EjercicioCondicionalfElse {
 			
 			Scanner entrada=new Scanner(System.in);
 			
-			System.out.println("Introduce tu edad por favor");
+			System.out.println("Introduce tu  edad por favor");
 			
 			int edad = entrada.nextInt();
 			
@@ -20,7 +20,7 @@ public class EjercicioCondicionalfElse {
 			
 			if (edad<18) {
 				
-				System.out.println("Eres adolescente");
+				System.out.println("Eres  adolescente");
 			}
 			
 			else if (edad<40) {

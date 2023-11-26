@@ -9,7 +9,7 @@ public class EntradaEjemplo2 {
 		
 		String nombre_usuario=JOptionPane.showInputDialog("Introduce tu nombre, por favor");
 		
-		String edad=JOptionPane.showInputDialog("Introduce la edad, por favor");
+		String edad=JOptionPane.showInputDialog("Introduce la edad , por favor");
 		
 		int edad_usuario=Integer.parseInt(edad);
 		
