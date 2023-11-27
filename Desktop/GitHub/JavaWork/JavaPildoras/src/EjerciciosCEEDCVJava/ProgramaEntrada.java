@@ -10,7 +10,7 @@ public class ProgramaEntrada {
 		// la entrada del usuario
 		Scanner scanner=new Scanner(System.in);
 	
-		/* Pedimos al usuario que introduzca la longitud del lado */
+		/* Pedimos al usuario que introduzca la longitu del lado */
 		
 		System.out.println("Introduce la lngitud del lado del cuadrado");
 	

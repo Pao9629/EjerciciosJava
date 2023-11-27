@@ -9,7 +9,7 @@ public class NumerosYValor {
 		
 		Scanner scanner=new Scanner(System.in);
 		
-		//Pedimos al usuario que introduzca el primer numero
+		//Peimos al usuario que introduzca el primer numero
 		System.out.println("Introduce el primer por fa número");
 		double numero1=scanner.nextDouble();
 		

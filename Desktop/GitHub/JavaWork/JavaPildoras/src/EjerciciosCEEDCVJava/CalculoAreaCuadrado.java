@@ -3,7 +3,7 @@ package EjerciciosCEEDCVJava;
 public class CalculoAreaCuadrado {
 
 	public static void main(String[] args) {
-		//Escriu un programa que calcule i mostre l'àrea d'un quadrat de costat igual a 5.
+		//Escriu un prgrama que calcule i mostre l'àrea d'un quadrat de costat igual a 5.
 		
 		int lado = 5;
 		
