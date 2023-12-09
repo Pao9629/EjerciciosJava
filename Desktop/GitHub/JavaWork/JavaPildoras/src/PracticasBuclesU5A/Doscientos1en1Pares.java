@@ -1,4 +1,4 @@
-package PracticasBuclesU5;
+package PracticasBuclesU5A;
 
 public class Doscientos1en1Pares {
 

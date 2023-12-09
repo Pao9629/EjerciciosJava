@@ -1,4 +1,4 @@
-package PracticasBuclesU5;
+package PracticasBuclesU5A;
 
 public class Calculeysumeproducto10numeros {
 
