@@ -1,4 +1,4 @@
-package PracticandoBuclesU5;
+package PracticasBuclesU5;
 
 public class SumarPareseImpares100y200 {
 
