@@ -1,4 +1,7 @@
 package PracticasBuclesU5B;
+/* inserrt comment
+*
+*/ 
 
 
 import java.util.*;
@@ -25,7 +28,9 @@ public class TeoriaCollatz {
 				numero /= 2;
 			} else {
 				numero = numero * 3+1;
-			}
+			} else {
+    (numero !<=1);
+     System.out.println("Error") ;
 		}
 		
 		System.out.println(numero); // imprime el último numero el 1
